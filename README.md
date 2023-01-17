@@ -11,8 +11,6 @@ Me encontre nas redes sociais:
 
 ![Filipe Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipe-alves-oliveira&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-alves-oliveira&layout=compact)](https://github.com/filipe-alves-oliveira/github-readme-stats)
-
 ### Tecnologias usadas no meu dia a dia:
 
 <div style="display: inline_block"><br/>
