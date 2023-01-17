@@ -1,15 +1,17 @@
-### Olá eu sou Filipe Alves ✌️
+### Olá eu sou Filipe Alves, bem vindo ao meu perfil do GitHub!! ✌😉
 
+Atualmente atuo como desenvolvedor Front-End Jr. pela <a href="https://www.opah.com.br/">Opah IT</a>, onde atuo na Squad de Carros e Cicuitos da<a href="https://www.cvc.com.br/aluguel-de-carros/"> CVC</a>.
 
 Me encontre nas redes sociais:
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-alves-de-oliveira-1bba9b95)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipeee_alves/)
 [![instagram](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/910265794460540989)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-alves-de-oliveira-1bba9b95)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/filipe.alves.31)
 
 ![Filipe Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipe-alves-oliveira&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-alves-oliveira&layout=compact)](https://github.com/filipe-alves-oliveira/github-readme-stats)
 
 ### Tecnologias usadas no meu dia a dia:
 
@@ -22,9 +24,6 @@ Me encontre nas redes sociais:
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
-
-
-Atualmente atuo como desenvolvedor front-end Jr. pela Opah IT, onde atuo na squad Carros na CVC > https://www.cvc.com.br/aluguel-de-carros.
 
 
 
