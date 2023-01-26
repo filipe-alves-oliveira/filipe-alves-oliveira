@@ -1,6 +1,6 @@
 ### Olá eu sou Filipe Alves, bem vindo ao meu perfil do GitHub!! ✌😉
 
-Graduado em Análise de desenvolvimento de Sistemas, atualmente atuo como desenvolvedor Front-End Jr. pela <a href="https://www.opah.com.br/">Opah IT</a>, onde atuo na Squad Carros da<a href="https://www.cvc.com.br/aluguel-de-carros/"> CVC</a>.
+Graduado em Análise e Desenvolvimento de Sistemas, atualmente atuo como desenvolvedor Front-End Jr. pela <a href="https://www.opah.com.br/">Opah IT</a>, onde atuo na Squad Carros da<a href="https://www.cvc.com.br/aluguel-de-carros/"> CVC</a>.
 
 Me encontre nas redes sociais:
 
